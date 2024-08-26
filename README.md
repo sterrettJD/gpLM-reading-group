@@ -27,3 +27,4 @@ Topics will focus on architecture and applications of genomic and protein langua
     1. [Protein language models uncover CAZyme function in metagenomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10634757/)
         2. Potentially have Kumar come talk about the project and revelant considerations?
 7. Learning evolutionary dynamics?
+8. Hands-on project?
