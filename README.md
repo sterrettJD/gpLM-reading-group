@@ -14,16 +14,26 @@ Topics will focus on architecture and applications of genomic and protein langua
         1. [Genomic language models: opportunities and challenges](https://arxiv.org/html/2407.11435v1)
 
 2. October 21 (10-11 am)
-    1. Intro to language models and architecture?
-        1. Attention/Transformers
-        2. Diffusion models
+    1. Intro to language models and architecture - 3 video lectures as a starting point for discussion
+    2. Material:
+        1. [How large language models work, a visual intro to transformers](https://youtu.be/wjZofJX0v4M)
+        2. [Attention in transformers, visually explained](https://youtu.be/eMlx5fFNoYc)
+        3. [How might LLMs store facts](https://youtu.be/9-Jl0dxWQs8)
 
 3. November 4 (10-11 am)
-    1. More introduction to the fundamentals
+    1. Early applications of transformer-based models to biology
     2. BERT
         1. [Original paper](https://arxiv.org/abs/1810.04805)
-        2. [DNABERT](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
         2. [BERTology meets Biology](https://arxiv.org/abs/2006.15222)
+        3. [DNABERT](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
+    3. Material:
+        1. Brief video overview of BERT ([here](https://youtu.be/t45S_MwAcOw?t=340)).
+           - Start around 5:40, unless you would like a recap on transformers, then start from the beginning. The video is ~12 min long, so starting at the recommended point makes it 6 min.
+        2. Main paper for this week will be “[BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222)”.
+           - If the paper feels daunting, you want a better explanation of the paper, or if you’re just tired of reading, there’s a nice video explaining this paper! It can be found [here](https://youtu.be/q6Kyvy1zLwQ) and is ~37 minutes, but if you have a solid biology background, you can skip through the 10-12 minutes.
+        3. We’ll also try to discuss some results from the original DNABERT paper ([here](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680), so if you have spare time please read this.
+           - Note that DNABERT2 has been released, but I think reading the original paper would be helpful because it provides a little more background and gets into more biological benchmarks. The DNABERT2 paper mostly focuses on improvements to the original model.
+ 
 
 4. November 18 (10-11 am)
     1. Protein structure and engineering
