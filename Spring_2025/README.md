@@ -5,12 +5,12 @@
 * Optional Resource: A **much** longer [review](https://arxiv.org/abs/2401.14656)
 
 ## Meeting 2: March 3rd: PREDICTING GENE SET FUNCTION (Text to Function)
-* Reading [Evaluation of large language models for discovery of gene set function](https://doi.org/10.1038/s41592-024-02525-x)
+* Reading: [Evaluation of large language models for discovery of gene set function](https://doi.org/10.1038/s41592-024-02525-x)
 
 ## Meeting 3: March 17th: GUEST SPEAKER
-* Speaker: [Kumar Thurimella](https://kthurimella.github.io/)
-* PhD, Class of 2024, University of Cambridge (Gates Cambridge Scholar)
-* MD Candidate, Class of 2026, University of Colorado - School of Medicine
+* Speaker: [Kumar Thurimella](https://kthurimella.github.io/) - [Protein Language Models Uncover Carbohydrate-Active Enzyme Function in Metagenomics](https://pubmed.ncbi.nlm.nih.gov/37961379/)
+  * PhD, Class of 2024, University of Cambridge (Gates Cambridge Scholar)
+  * MD Candidate, Class of 2026, University of Colorado - School of Medicine
 
 ## Meeting 3: March 31st
 
