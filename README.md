@@ -2,6 +2,8 @@
 
 This repo contains the "curriculum" and resources for a genomic and protein language model reading group at University of Colorado Boulder/Anschutz.
 
+## Repo structure
+For Spring '25 schedule and materials can be found in [Spring_2025](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Spring_2025) folder. Fall '24 resources are archived in the [Fall_2024](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Fall_2024) folder. Introductory material can be found below.
 
 # Introductory Material
 ### Intro to language models and architecture 
