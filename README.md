@@ -1,4 +1,4 @@
-# LLM in Bio
+# Large Language Models in Biology
 
 This repo contains the "curriculum" and resources for a genomic and protein language model reading group at University of Colorado Boulder/Anschutz.
 
