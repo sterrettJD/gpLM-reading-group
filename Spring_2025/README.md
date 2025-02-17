@@ -12,9 +12,50 @@
   * PhD, Class of 2024, University of Cambridge (Gates Cambridge Scholar)
   * MD Candidate, Class of 2026, University of Colorado - School of Medicine
 
-## Meeting 3: March 31st
+## Meeting 3: March 31st: CHAT ABOUT OUR SUCCESSES/FAILURES IN TRYING MODELS
+* Have done: Check out a LLM focused model (read/scan the paper and **try** to run the model). Some Ideas are below:
 
-## Meeting 4: April 14th
+| Input Data | Task | Tools/Models |
+|------------|------|-------------|
+| **DNA sequence** | Predicts genome-wide variant effects | DNABERT1/2, GPN (variant effects in coding regions), Nucleotide transformer |
+| | Predicts cis-regulatory regions | DNABERT1/2, BERT-Promoter, iEnhancer-BERT, Nucleotide Transformer |
+| | Predicts DNA-protein interaction (e.g., which proteins bind) | DNABERT 1/2, TFBert, GROVER, MoDNA |
+| | Predicts DNA methylation | BERT6mA, iDNA-ABF, iDNA-ABT, MuLan-Methyl |
+| | Predicts RNA splice sites | DNABERT, DNABERT-2 |
+| **RNA sequence** | Predict 2D/3D structure of RNA | RNA-FM (predict structures), RNA-MSM (uses homologous sequences), RNA-FM |
+| | RNA structural alignment or clustering | RNABERT |
+| | Predict RNA splice sites | SpliceBERT |
+| | Predict N7-methylguanosine modification | BERT-m7G |
+| | Predict RNA 2’-O-methylation modification | Bert2Ome |
+| | Predict RNA modifications | Rm-LR |
+| | Predict association between miRNA, lncRNA, and disease | BertNDA |
+| | Predict lncRNAs | LncCat |
+| | Predict lncRNA coding potential | LSCPP-BERT |
+| | Predict protein expression | CodonBERT |
+| **Protein sequences, MSAs, Gene ontology annotations, Triplets of protein-relation-attribute, Protein property descriptions** | Predict Secondary structure & contact | MSA Transformer, ProtTrans, SPRoBERTa, TAPE, KeAP |
+| | Generate protein sequences | ProGen, ProtGPT |
+| | Predict protein function | SPRoBERTa, ProtST, PromptProtein |
+| | Predict major PTMs | ProteinBERT |
+| | Predict evolution and mutation | SPRoBERTa, UniRep, ESM-1b, TAPE |
+| | Predict biophysical properties | TAPE, PromptProtein |
+| | PPI and binding affinity | KeAP |
+| | Predict antigen-receptor binding | MHCRoBERTa, BERTMHC, TCR-BERT, SC-AIR-BERT |
+| | Predict antigen-antibody binding | AbLang, AntiBERTa, EATLM |
+| **Molecular SMILES** | Predict molecular properties | SMILES-BERT, ChemBERTa, K-BERT |
+| | Generating molecules | MolGPT |
+| **Molecular graphs** | Predict molecular properties (e.g., Absorption, Distribution, Metabolism, Extraction, Toxicology, Pharmacokinetics) | MOLE-BERT |
+| **Molecular fingerprints and protein sequences** | Predict drug-target interaction | DTI-BERT |
+| **Molecular SMILES and protein sequences** | Predict Synergistic Effects | TransDTI, C2P2 |
+| **scRNA-seq data** | Cell clustering | tGPT, scFoundation |
+| | Cell type annotation | CIForm, TOSICA, scTransSort, TransCluster, scBERT, scGPT |
+| | Gene function analyses (gene expression prediction, gene network inference, gene) | scGPT, scFoundation, Geneformer |
+
+
+* During Meeting: We'll talk through what was difficult, cool, confusing, helpful, etc about trying to get the models to work. We will also pick a model to play with for next meeting
+
+
+## Meeting 4: April 14th: WORKSHOP A MODEL & CODE TOGETHER
+* Have done: Scan through the paper on the model chosen (will add paper once chosen)
 
 ## Meeting 5: April 28th
 
