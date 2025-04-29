@@ -54,9 +54,11 @@
 * During Meeting: We'll talk through what was difficult, cool, confusing, helpful, etc about trying to get the models to work. We will also pick a model to play with for next meeting
 
 
-## Meeting 4: April 14th: WORKSHOP A MODEL & CODE TOGETHER
-* Have done: Scan through the paper on the model chosen (will add paper once chosen)
+## Meeting 4: April 14th: REVIEW of LLM models for genetic variant classification
+* We read this review: [Language modeeling techniques for analyzing the impact of human genetic variants](https://arxiv.org/html/2503.10655v1)
 
-## Meeting 5: April 28th
+## Meeting 5: April 28th: WORKSHOP DNA-BERT2 with Toy Data
+* We went through fine-tuning DNABERT2 to classify sequences and then used SHAP to interpret what features/tokens the model was using to classify the sequences.
+* Code for this can be found at Testing_BERT_Toy.ipynb
 
-## Meeting 6: May 12th
+## Meeting 6: May 12th: TBD
