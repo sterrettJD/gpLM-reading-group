@@ -61,4 +61,17 @@
 * We went through fine-tuning DNABERT2 to classify sequences and then used SHAP to interpret what features/tokens the model was using to classify the sequences.
 * Code for this can be found at Testing_BERT_Toy.ipynb
 
-## Meeting 6: May 12th: TBD
+## Meeting 6: May 12th: WORKSHOP DNA-BERT2 with Real Data
+* We went through fine-tuning DNABERT2 to classify sequences as being responsive or not responsive to a p53 activation. We did this using a list of enhancers that did or did not transcriptionally respond to Nutlin-based p53 activation in three cell types.
+* Although the model wasn't super successful (likely due to low epoch and not including all data for resource purposes), we learned how to address highly imbalanced datasets and effectively evaluate models beyond simple accuracy.
+* Code for this can be found at Testing_BERT_p53.ipynb
+* We also went through some ideas of what we want to see next semester:
+    * Talks from industry workers of how AI/LLMs are being applied currently in treatment focused companies
+    * Read a paper and the next meeting try to implement code from it
+    * Possibly expand to general AI instead of only LLM
+    * Look into other LLMs
+        * Newest version of AlphaFold
+        * LLM for drug discovery (would also be cool to have a talk)
+        * PanGenome LLMs
+        * Epigenetic LLMs (Epi-GePT)
+    * Review basics in model evaluation
