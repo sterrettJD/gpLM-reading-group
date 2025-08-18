@@ -11,6 +11,7 @@ To be determined based on the topic ideas below!
 
 **Guest Speakers**
 * Person from Refined Science to share some of the most recent LLM or graphs
+* John Sterret on job search and role
 
 **Learning about the capabilities and limitations of current models**
 * Summarize the top current models and companies
