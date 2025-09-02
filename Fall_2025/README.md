@@ -10,29 +10,38 @@ To be determined based on the topic ideas below!
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
 * **Topic**: Keeping up with AI research: Learning about the top companies, blogs, and ways to keep up with the super fast AI research in ways applicable to 1) our own research and 2) staying competitive in the job market.
 * **Resources**:
-  * [Powerpoint](https://docs.google.com/presentation/d/179OkrRgGHunCaI75E3qrCoqjb7ci9dKjFMNEDAKQtxU/edit?usp=sharing) (still in progress!)
-### Meeting 2: September 12, 2025 [Career/Research Talk]
+  * [Powerpoint](https://docs.google.com/presentation/d/179OkrRgGHunCaI75E3qrCoqjb7ci9dKjFMNEDAKQtxU/edit?usp=sharing) 
+  * Our **["Treasure map"](https://docs.google.com/document/d/1fm5BfjVD9CcuTxMit7AUtvsM4jS4qNVwG27RD7X6biM/edit?usp=sharing)**
+### Meeting 2: September 12, 2025 [Model Paper]
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
-* **Topic**: One of the two below
-  * Read a paper
-  * Guest speaker to chat about their research
-### Meeting 3: September 26, 2025 [Model Paper]
-* **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
-* **Topic**: Evo model?: Focuses on understanding what DNA means for all possible later applications
+* **Topic**: Evo2 model: Focuses on understanding what DNA means for all possible later applications
 * **Resources**:
   * [Evo 1](https://www.science.org/doi/10.1126/science.ado9336)
-  * [Evo 2](https://arcinstitute.org/manuscripts/Evo2)
+  * [Evo 2](https://arcinstitute.org/manuscripts/Evo2) <- **READ THIS ONE**
+
+### Meeting 3: September 26, 2025 
+* **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
+* **Topic**: TBD
+
 ### Meeting 4: October 10, 2025
 * **Location**: [Zoom](https://cuboulder.zoom.us/j/96039143941)
   * Alumni [Dr. John Sterrett](https://sterrettjd.github.io/) shares his process of getting hired as Bionformatics Applications Scientist -- Synthetic Biology at [Integrated DNA Technologies](https://www.idtdna.com/page)
+
 ### Meeting 5: October 24, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
+* **Topic**: Next Paper?
+
 ### Meeting 6: November 7, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
+* **Topic**: Matt Chat?
+
 ### Meeting 7: November 21, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
+* **Topic**: Last Paper?
+
 ### Meeting 8: December 5, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
+* **Topic**: Ethics and AI?
 
 ## Topic Ideas
 **How you can keep up with AI research**

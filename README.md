@@ -10,7 +10,10 @@ Join the Google Calendar via this [link](https://calendar.google.com/calendar/u/
 ## Repo structure
 For Spring '25 schedule and materials can be found in [Spring_2025](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Spring_2025) folder. Fall '24 resources are archived in the [Fall_2024](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Fall_2024) folder. Introductory material can be found below.
 
-# Introductory Material
+# Resources
+Our **["treasure map"](https://docs.google.com/document/d/1fm5BfjVD9CcuTxMit7AUtvsM4jS4qNVwG27RD7X6biM/edit?usp=sharing)** for top companies, skills, social media accounts, etc for Biology in AI. Feel free to add to it!
+
+## Introductory Material
 ### Intro to language models and architecture 
 * [How large language models work, a visual intro to transformers](https://youtu.be/wjZofJX0v4M)
 * [Attention in transformers, visually explained](https://youtu.be/eMlx5fFNoYc)
@@ -18,7 +21,7 @@ For Spring '25 schedule and materials can be found in [Spring_2025](https://gith
 ### Helpful Reviews
 * [Genomic language models: opportunities and challenges](https://arxiv.org/html/2407.11435v1)
 
-# Some of the most popular LLM examples in Biology
+## Some of the most popular LLM examples in Biology
 ### BERT (LLM) and Biology
 * Main paper: [BERTology Meets Biology: Interpreting Attention in Protein Language Models](https://arxiv.org/abs/2006.15222)”.
 * [Video](https://youtu.be/q6Kyvy1zLwQ) (first 10-12 min are over bio, other the model)
