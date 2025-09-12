@@ -18,10 +18,14 @@ To be determined based on the topic ideas below!
 * **Resources**:
   * [Evo 1](https://www.science.org/doi/10.1126/science.ado9336)
   * [Evo 2](https://arcinstitute.org/manuscripts/Evo2) <- **READ THIS ONE**
+* Homework for Sep 26th: Add either a paper you found about using AI (LLM or not) in your specific field of interest to the ["Cool Papers"](https://docs.google.com/presentation/d/1OmjAQAaaAKedwcm8zwePoSjq2uYrcmU_XdcjJDO1Xuc/edit?usp=sharing) OR a term/concept with explanation in the ["Visual Dictionary"](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing)
 
 ### Meeting 3: September 26, 2025 
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
-* **Topic**: TBD
+* **Topic**: Share about our findings (concept or paper) from last meeting's "homework"
+  * Links for easy access
+    * ["Cool Papers"](https://docs.google.com/presentation/d/1OmjAQAaaAKedwcm8zwePoSjq2uYrcmU_XdcjJDO1Xuc/edit?usp=sharing)
+    * ["Visual Dictionary"](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing)
 
 ### Meeting 4: October 10, 2025
 * **Location**: [Zoom](https://cuboulder.zoom.us/j/96039143941)

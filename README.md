@@ -13,6 +13,12 @@ For Spring '25 schedule and materials can be found in [Spring_2025](https://gith
 # Resources
 Our **["treasure map"](https://docs.google.com/document/d/1fm5BfjVD9CcuTxMit7AUtvsM4jS4qNVwG27RD7X6biM/edit?usp=sharing)** for top companies, skills, social media accounts, etc for Biology in AI. Feel free to add to it!
 
+**["Visual Dictionary"](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing)** explaining some of the most common concepts/terms in AI
+
+**["Cool Papers"](https://docs.google.com/presentation/d/1OmjAQAaaAKedwcm8zwePoSjq2uYrcmU_XdcjJDO1Xuc/edit?usp=sharing)** is a slide show with slides designated to papers that might be worth looking at for your research
+
+
+
 ## Introductory Material
 ### Intro to language models and architecture 
 * [How large language models work, a visual intro to transformers](https://youtu.be/wjZofJX0v4M)
