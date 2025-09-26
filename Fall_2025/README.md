@@ -27,18 +27,24 @@ To be determined based on the topic ideas below!
   * Links for easy access
     * ["Cool Papers"](https://docs.google.com/presentation/d/1OmjAQAaaAKedwcm8zwePoSjq2uYrcmU_XdcjJDO1Xuc/edit?usp=sharing)
     * ["Visual Dictionary"](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing)
+* **Homework**: Read [Applying interpretable ML in computational biology](https://www.nature.com/articles/s41592-024-02359-7)
 
 ### Meeting 4: October 10, 2025
-* **Location**: [Zoom](https://cuboulder.zoom.us/j/96039143941)
-  * Alumni [Dr. John Sterrett](https://sterrettjd.github.io/) shares his process of getting hired as Bionformatics Applications Scientist -- Synthetic Biology at [Integrated DNA Technologies](https://www.idtdna.com/page)
+* **Location**: [Zoom ONLY](https://cuboulder.zoom.us/j/96039143941)
+  * You are welcome to meet in JSCBB B432 but Hope will be out of town.
+* **Topic**:
+  * Discussing [Applying interpretable ML in computational biology](https://www.nature.com/articles/s41592-024-02359-7)
+  * Go over the current content timeline for approval
+* **No Homework for Oct 24th**
+
 
 ### Meeting 5: October 24, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
-* **Topic**: Next Paper?
+* **Topic**: Alumni [Dr. John Sterrett](https://sterrettjd.github.io/) shares his process of getting hired as Bionformatics Applications Scientist -- Synthetic Biology at [Integrated DNA Technologies](https://www.idtdna.com/page)
 
 ### Meeting 6: November 7, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
-* **Topic**: Matt Chat?
+* **Topic**: Matthew Mollerus leading a chat on Model Evaluation
 
 ### Meeting 7: November 21, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
@@ -46,7 +52,9 @@ To be determined based on the topic ideas below!
 
 ### Meeting 8: December 5, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
-* **Topic**: Ethics and AI?
+* **Topic**: Ethics and AI!
+  * Rutendo Siguake will chat about her volunteering work with ethics and AI.
+  * Dr. Mary Allen is the head of Responsible Conduct of Research and will also be there to share her thoughts.
 
 ## Topic Ideas
 **How you can keep up with AI research**
@@ -57,11 +65,12 @@ To be determined based on the topic ideas below!
 
 **Guest Speakers**
 * Person from Refined Science to share some of the most recent LLM or graphs
-* John Sterret on job search and role
-* Matt to share his research
+* *Scheduled*: John Sterret on job search and role
+* *Delayed for next semester*: Matt to share his research
+* Matthew Cheng to speak next semester on Knowledge Graphs and DAGs.
 
 **Learning about the capabilities and limitations of current models**
-* Summarize the top current models and companies
+* *Done*: Summarize the top current models and companies
 * Google's TxGemma (Focuses on therapeutic development): 
   * [Paper](https://storage.googleapis.com/research-media/txgemma/txgemma-report.pdf)
   * [Blog](https://developers.googleblog.com/en/introducing-txgemma-open-models-improving-therapeutics-development/)
