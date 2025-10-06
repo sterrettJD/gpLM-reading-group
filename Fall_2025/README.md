@@ -30,7 +30,7 @@ To be determined based on the topic ideas below!
 * **Homework**: Read [Applying interpretable ML in computational biology](https://www.nature.com/articles/s41592-024-02359-7)
 
 ### Meeting 4: October 10, 2025
-* **Location**: [Zoom ONLY](https://cuboulder.zoom.us/j/96039143941)
+* **Location**: [Zoom](https://cuboulder.zoom.us/j/96039143941)
   * You are welcome to meet in JSCBB B432 but Hope will be out of town.
 * **Topic**:
   * Discussing [Applying interpretable ML in computational biology](https://www.nature.com/articles/s41592-024-02359-7)
@@ -48,7 +48,9 @@ To be determined based on the topic ideas below!
 
 ### Meeting 7: November 21, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
-* **Topic**: Last Paper?
+* **Topic**: 
+  * Last Paper?
+  * Atma and Carolina share what they learned at the recent AI in Biology Conference!
 
 ### Meeting 8: December 5, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
