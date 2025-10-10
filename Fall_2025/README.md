@@ -34,10 +34,15 @@ To be determined based on the topic ideas below!
   * You are welcome to meet in JSCBB B432 but Hope will be out of town.
 * **Topic**:
   * Discussing [Applying interpretable ML in computational biology](https://www.nature.com/articles/s41592-024-02359-7)
-  * Some helpful videos:
+  * Some helpful resources:
     * Phenomenal [video](https://www.youtube.com/watch?v=IHZwWFHWa-w) on what gradient descent is and how neural networks work. (only first 10 min are really needed)
     * [Powerpoint](https://dbdmg.polito.it/dbdmg_web/wp-content/uploads/2024/04/XAI_07_local_gradient_based.pdf#:~:text=In%20gradient%2Dbased%20explainability%20methods%2C%20instead%20of%20computing,the%20input%20features%20affect%20the%20output%20directly.) for gradient-based explainability
     * Good [Paper](https://www.nature.com/articles/s41586-021-03922-4) example of a biologically informed ML design using biological networks (Genes --> Gene Pathways --> Biological Processes) (P-NET)
+    * **Using LLMs to guide feature selection in LASSO**: LM-LASSO: A Robust Framework for Domain - Informed Feature Selection and Regularization ([Paper](https://arxiv.org/abs/2502.10648))
+    * **Conformal Language Modeling** ([Paper](https://arxiv.org/abs/2306.10193))
+    * **Conformal Prediction** ([Paper](https://en.wikipedia.org/wiki/Conformal_prediction))
+    * InterPLM: **discovering interpretable feature in protein language models via sparse autoencoders** ([Paper](https://www.nature.com/articles/s41592-025-02836-7))
+
 * **No Homework for Oct 24th**
 
 
