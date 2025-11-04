@@ -53,6 +53,16 @@ To be determined based on the topic ideas below!
 ### Meeting 6: November 7, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
 * **Topic**: Matthew Mollerus leading a chat on Model Evaluation
+* Papers:
+  * To skim:
+      * [Leakage and the reproducibility crisis in machine-learning-based science](https://pmc.ncbi.nlm.nih.gov/articles/PMC10499856/) - all about the different ways data leakage can compromise model evaluation
+      * [Shortcut Learning in Deep Neural Networks](https://arxiv.org/pdf/2004.07780) - a very readable and, dare I say, fun breakdown of how models learn patterns that fail to generalize to real world distributions
+  * Optional Resources:
+      * [DOME: Recommendations for supervised machine learning validation in biology](https://arxiv.org/pdf/2006.16189) - a how-to guide for sniffing out fishing practices in ML papers
+      * [Troubling Trends in Machine Learning Scholarship](https://arxiv.org/pdf/1807.03341) - a critique of the 'leaderboard' culture of ML research
+      * [Data splitting to avoid information leakage with DataSAIL](https://www.nature.com/articles/s41467-025-58606-8) - an outline of best practices for splitting data in biological context to evaluate out-of-distribution performance
+      * [ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design](https://papers.nips.cc/paper_files/paper/2023/file/cac723e5ff29f65e3fcbb0739ae91bee-Paper-Datasets_and_Benchmarks.pdf) - protein model benchmarking done, in my opinion, well
+* Homework for 11/21: TBD
 
 ### Meeting 7: November 21, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
