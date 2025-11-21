@@ -66,9 +66,16 @@ To be determined based on the topic ideas below!
 
 ### Meeting 7: November 21, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
-* **Topic**: 
-  * Last Paper?
+* **Topic**: Feature Engineering & Selection
   * Atma and Carolina share what they learned at the recent AI in Biology Conference!
+
+* Papers/Resources:
+  * [Powerpoint](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing) (Visual Dictionary)
+  * Quick & Simple Explanations from Geeksforgeeks:
+      * [Feature Engineering](https://www.geeksforgeeks.org/machine-learning/what-is-feature-engineering/)
+      * [Feature Selection](https://www.geeksforgeeks.org/machine-learning/feature-selection-techniques-in-machine-learning/)
+  * [Tips for Biologists](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010718) on Feature Engineering
+  * Biology focused [review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9580915/) on Feature Selection
 
 ### Meeting 8: December 5, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
