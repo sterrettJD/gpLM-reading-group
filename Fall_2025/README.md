@@ -81,6 +81,7 @@ To be determined based on the topic ideas below!
 ### Meeting 8: December 5, 2025
 * **Location**: JSCBB B432 and [Zoom](https://cuboulder.zoom.us/j/96039143941)
 * **Topic**: Ethics and AI!
+  * [Powerpoint](https://docs.google.com/presentation/d/1cj3iUpp-DS4aC-0dMfs4NwxycdQnAblP4_87xka6n-U/edit?usp=sharing)
   * Rutendo Siguake will chat about her volunteering work with ethics and AI.
   * Dr. Mary Allen is the head of Responsible Conduct of Research and will also be there to share her thoughts.
 
