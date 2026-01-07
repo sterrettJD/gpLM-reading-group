@@ -1,6 +1,6 @@
-# Large Language Models in Biology
+# AI and Statistics in Biology
 
-This repo contains the "curriculum" and resources for a genomic and protein language model reading group at University of Colorado Boulder/Anschutz.
+This repo contains the "curriculum" and resources for an AI in Biology reading group at University of Colorado Boulder/Anschutz. We invite people of ALL backgrounds!
 
 ## Contact
 Email hope.townsend@colorado.edu for additional info or questions
@@ -8,7 +8,9 @@ Email hope.townsend@colorado.edu for additional info or questions
 Join the Google Calendar via this [link](https://calendar.google.com/calendar/u/0?cid=Y185YWYxMzJlNTEwZmQ1Yjg3MjgwNGUyM2E0MWI3M2YzZDdmMDIxODdjYzZhMDJmMmQyOTBjZWZiYmVhNzM4NTViQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) or this [one](https://calendar.google.com/calendar/embed?src=c_9af132e510fd5b872804e23a41b73f3d7f02187cc6a02f2d290cefbbea73855b%40group.calendar.google.com&ctz=America%2FDenver) (in case the other doesn't work)
 
 ## Repo structure
-For Spring '25 schedule and materials can be found in [Spring_2025](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Spring_2025) folder. Fall '24 resources are archived in the [Fall_2024](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Fall_2024) folder. Introductory material can be found below.
+Introductory Material and Learning resources can be found below.
+
+Schedule and resources from specific semester can be found in the relevant folders: [Spring_2026](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Spring_2026), [Fall_2025](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Fall_2025), [Spring_2025](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Spring_2025), [Fall_2024](https://github.com/sterrettJD/gpLM-reading-group/tree/main/Fall_2024).
 
 # Resources
 Our **["treasure map"](https://docs.google.com/document/d/1fm5BfjVD9CcuTxMit7AUtvsM4jS4qNVwG27RD7X6biM/edit?usp=sharing)** for top companies, skills, social media accounts, etc for Biology in AI. Feel free to add to it!
