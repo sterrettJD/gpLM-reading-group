@@ -2,7 +2,7 @@
 
 This semester, we are continuing where we left off in Fall to discuss the boom of AI, how to keep up with it, and how it's actually be used.
 
-All meetings are 10:30am-11:30am unless noted otherwise.
+All meetings are 12:30pm-1:30pm unless noted otherwise.
 
 ## Schedule
 To be determined based on the topic ideas below!
@@ -24,12 +24,12 @@ To be determined based on the topic ideas below!
 
 ### Meeting 3: February 20, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
-* **Topic**: Dr. Sam Hunter on Time-Series Data
-* **Homework**: TBA
+* **Topic**:
 
 ### Meeting 4: March 6, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
-* **Topic**:
+* **Topic**: Dr. Sam Hunter on Time-Series Data
+* **Homework**: TBA
 
 ### Skipping March 20 due to Spring Break 
 
