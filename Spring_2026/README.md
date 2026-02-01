@@ -19,43 +19,55 @@ To be determined based on the topic ideas below!
 
 ### Meeting 2: February 6, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
-* **Topic**: TBD
+* **Topic**: Alpha-Fold 3?
 * **Resources**:
+  * The original [Alpha-Fold](https://www.nature.com/articles/s41586-021-03819-2)
+  * [Alpha-Fold 3](https://www.nature.com/articles/s41586-024-07487-w/)
+  * Where Alpha-Fold 3 [struggles]((https://www.ebi.ac.uk/training/online/courses/alphafold/))
 
 ### Meeting 3: February 20, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
-* **Topic**:
+* **Topic**: Microscopy: Review and people share where they've seen failures
+* **Resources**:
+  * [Review](https://journals.biologists.com/jcs/article/137/20/jcs262095/362505/Machine-learning-in-microscopy-insights)
 
 ### Meeting 4: March 6, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
 * **Topic**: Dr. Sam Hunter on Time-Series Data
-* **Homework**: TBA
+* **Resources**: TBA
 
 ### Skipping March 20 due to Spring Break 
 
 ### Meeting 5: April 3, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
-* **Topic**
+* **Topic**: Multiomics Integration
+* **Resources**:
+  * TBA
+
 
 ### Meeting 6: April 17, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
-* **Topic**: ??
+
+* **Topic**: Predicting networks based on experimental data (e.g. CRISPR, Perturb-seq)
+* **Resources**:
+  * https://www.csbj.org/article/S2001-0370(25)00058-3/fulltext
 
 
 ## Topic Ideas 
+**Microscopy**
+
 **Batch Effects**
 * Should models correct batch effects or expose them?
 * Is removing batch effect erase biological truth? How can we tell?
 * Examples: ComBat, totalVI 
+* Regression approaches: DESeq/Limma, [Combat-seq](https://academic.oup.com/nargab/article/2/3/lqaa078/590951)
+* Generative model approaches: [TotalVI](https://www.nature.com/articles/s41592-020-01050-x)
 
 **Multiomics Integration**
 * Is AI actually better at integrating a bunch of datasets compared to humans?
 * When does adding a modality reduce signal-to-noise? 
 * Should modalities be fused early, late, or not at all?
 * How do we interpret disagreement between modalities?
-
-**Time-Series**
-* How do we consider time-series data -- maybe Meg or Sam can discuss this?
 
 **Causality with experiments?**
 * e.g. Perturb-seq + ML
