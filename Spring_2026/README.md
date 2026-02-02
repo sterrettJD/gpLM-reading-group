@@ -19,11 +19,21 @@ To be determined based on the topic ideas below!
 
 ### Meeting 2: February 6, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
-* **Topic**: Alpha-Fold 3?
+* **Topic**: Alpha-Fold 3 (Protein & Ligand Folding)
+* **Homework**: Please at least watch the **two short videos** and *if possible* read the benchmarking paper under resources
+  * [5 min Video](https://www.youtube.com/watch?v=7q8Uw3rmXyE) on AlphaFold (the OG)
+  * [8 min Video](https://www.youtube.com/watch?v=CYncNBMPLLk) on AlphaFold3
 * **Resources**:
-  * The original [Alpha-Fold](https://www.nature.com/articles/s41586-021-03819-2)
-  * [Alpha-Fold 3](https://www.nature.com/articles/s41586-024-07487-w/)
-  * Where Alpha-Fold 3 [struggles]((https://www.ebi.ac.uk/training/online/courses/alphafold/))
+  * More Videos:
+    * 12 min on [more details](https://www.youtube.com/watch?v=3gSy_yN9YBo) on AlphaFold innerworkings
+  * Papers
+    * [Third-party benchmarking](https://academic.oup.com/bib/article/26/6/bbaf616/8351050) of Alpha-Fold3
+    * [AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) original paper
+    * [Alpha-Fold 3](https://www.nature.com/articles/s41586-024-07487-w/) original paper
+  * Blogs
+    * [Problems](https://www.deeporigin.com/blog/alphafold-3-exciting-advance-yet-unresolved-major-issues-remain) with AlphaFold 3
+    * [Practical Guide](https://www.ebi.ac.uk/training/online/courses/alphafold/) for AlphaFold 3
+
 
 ### Meeting 3: February 20, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
