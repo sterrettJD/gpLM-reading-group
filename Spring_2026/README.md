@@ -24,6 +24,7 @@ To be determined based on the topic ideas below!
   * [5 min Video](https://www.youtube.com/watch?v=7q8Uw3rmXyE) on AlphaFold (the OG)
   * [8 min Video](https://www.youtube.com/watch?v=CYncNBMPLLk) on AlphaFold3
 * **Resources**:
+  * Powerpoint -- Slides on ALpha Fold and diffusion models have been added to the **Tools section** of our [Visual Dictionary](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing)
   * More Videos:
     * 12 min on [more details](https://www.youtube.com/watch?v=3gSy_yN9YBo) on AlphaFold innerworkings
   * Papers
