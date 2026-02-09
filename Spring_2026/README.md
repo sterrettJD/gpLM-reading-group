@@ -39,7 +39,7 @@ To be determined based on the topic ideas below!
 ### Meeting 3: February 20, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
 * **Topic**: Microscopy: Review and people share where they've seen failures
-* **Resources**:
+* **Homework**:
   * [Review](https://journals.biologists.com/jcs/article/137/20/jcs262095/362505/Machine-learning-in-microscopy-insights)
 
 ### Meeting 4: March 6, 2026
@@ -52,6 +52,8 @@ To be determined based on the topic ideas below!
 ### Meeting 5: April 3, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
 * **Topic**: Multiomics Integration
+  * Meaghan might share some of the work she's done with multiomics and AI (AI integration more focused on a few datasets)
+  * Paper on more complex AI integration (e.g. LLM)
 * **Resources**:
   * TBA
 
