@@ -41,6 +41,9 @@ To be determined based on the topic ideas below!
 * **Topic**: Microscopy: Review and people share where they've seen failures
 * **Homework**:
   * [Review](https://journals.biologists.com/jcs/article/137/20/jcs262095/362505/Machine-learning-in-microscopy-insights)
+* **Resources**:
+  * [Github](https://github.com/jwtay1) of Dr. Jian Wei Tay with some great code examples
+  * Older (2023) but very accessible [review](https://doi.org/10.1002/cpz1.819)
 
 ### Meeting 4: March 6, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
