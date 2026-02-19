@@ -42,6 +42,7 @@ To be determined based on the topic ideas below!
 * **Homework**:
   * [Review](https://journals.biologists.com/jcs/article/137/20/jcs262095/362505/Machine-learning-in-microscopy-insights)
 * **Resources**:
+  * [Powerpoint](https://docs.google.com/presentation/d/1sLOLa0W-ZiFwsdwweB0OvhvfhfppaHDwigkirZBJPq0/edit?usp=sharing)
   * [Github](https://github.com/jwtay1) of Dr. Jian Wei Tay with some great code examples
   * Older (2023) but very accessible [review](https://doi.org/10.1002/cpz1.819)
   * Added Reinforcement learning and Active learning to [Visual Dictionary](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing)
