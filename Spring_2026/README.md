@@ -44,6 +44,7 @@ To be determined based on the topic ideas below!
 * **Resources**:
   * [Github](https://github.com/jwtay1) of Dr. Jian Wei Tay with some great code examples
   * Older (2023) but very accessible [review](https://doi.org/10.1002/cpz1.819)
+  * Added Reinforcement learning and Active learning to [Visual Dictionary](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing)
 
 ### Meeting 4: March 6, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
@@ -68,6 +69,12 @@ To be determined based on the topic ideas below!
 * **Resources**:
   * https://www.csbj.org/article/S2001-0370(25)00058-3/fulltext
 
+### Meeting 7: April 24, 2026
+* **Location**: [Zoom](https://cuboulder.zoom.us/j/93190333355)
+
+* **Topic**: AI in Microscopy Tips and Caveats with [Dr. Jian Tay](https://www.linkedin.com/in/jwtay/)
+* **Resources**:
+  *
 
 ## Topic Ideas 
 **Microscopy**
