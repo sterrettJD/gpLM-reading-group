@@ -50,8 +50,9 @@ To be determined based on the topic ideas below!
 ### Meeting 4: March 6, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
 * **Topic**: Dr. Sam Hunter on Time-Series Data
-* **Resources**: TBA
-
+* **Resources** (OPTIONAL): TBA
+  * [In-depth resource](https://doi.org/10.1155/2013/203681) for designing RNA-seq time series analyses with classical models
+  * [Cool approach](https://doi.org/10.1093/bib/bbac586) using deep learning
 ### Skipping March 20 due to Spring Break 
 
 ### Meeting 5: April 3, 2026
