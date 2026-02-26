@@ -17,7 +17,7 @@ Our **["treasure map"](https://docs.google.com/document/d/1fm5BfjVD9CcuTxMit7AUt
 
 **["Visual Dictionary"](https://docs.google.com/presentation/d/18GktKtegG00VJ-YeRNsjlSoRydSro1z7DQZ1CS_J1ng/edit?usp=sharing)** explaining some of the most common concepts/terms in AI
 
-**["Cool Papers"](https://docs.google.com/presentation/d/1OmjAQAaaAKedwcm8zwePoSjq2uYrcmU_XdcjJDO1Xuc/edit?usp=sharing)** is a slide show with slides designated to papers that might be worth looking at for your research
+
 
 
 
@@ -38,4 +38,14 @@ Our **["treasure map"](https://docs.google.com/document/d/1fm5BfjVD9CcuTxMit7AUt
 * [Great 13min Video](https://www.youtube.com/watch?v=3gSy_yN9YBo)
 * [Detailed blog that walks you through the algorithm](https://www.uvio.bio/alphafold-architecture/)
 
+## Example Code
+* Fine-tuning a foundation model to predict cyanobacteria segmentation in microscopy from Ben! [Github](https://github.com/Bennibraun/anabaena)
+* Fine-tuning a BERT model in Spring_2025 folder!
 
+
+
+
+# Cool Papers
+**["Cool Papers"](https://docs.google.com/presentation/d/1OmjAQAaaAKedwcm8zwePoSjq2uYrcmU_XdcjJDO1Xuc/edit?usp=sharing)** is a slide show with slides designated to papers that might be worth looking at for your research
+
+* [Discriminating abiotic and biotic organics in meteorite and terrestrial samples using machine learning on mass spectrometry data](https://academic.oup.com/pnasnexus/article/4/11/pgaf334/8323799) 2025
