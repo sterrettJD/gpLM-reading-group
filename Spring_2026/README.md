@@ -58,10 +58,12 @@ To be determined based on the topic ideas below!
 ### Meeting 5: April 3, 2026
 * **Location**: JSCBB B322 and [Zoom](https://cuboulder.zoom.us/j/93190333355)
 * **Topic**: Multiomics Integration
-  * Meaghan might share some of the work she's done with multiomics and AI (AI integration more focused on a few datasets)
-  * Paper on more complex AI integration (e.g. LLM)
+  * [Technical review](https://doi.org/10.1093/bib/bbaf355) on multiomics integration methods (August 2025)
 * **Resources**:
-  * TBA
+  * [Helpful blog](https://frontlinegenomics.com/a-guide-to-multi-omics-integration-strategies/) on multiomics integration methods
+  * Dec 2025 [Review](https://www.sciencedirect.com/science/article/pii/S2215017X25000657) on translationally focused (direct disease) multiomics integration
+  * Another journal club from a diff university and [their resources and example analyses](https://med.nyu.edu/research/scientific-cores-shared-resources/multi-omics-study-design-data-integration-resource)
+  * A [2026 workshop](https://www.ebi.ac.uk/training/materials/introduction-to-multiomics-data-integration-and-visualisation-materials/course-content/) whose slides/lectures/practicals are available
 
 
 ### Meeting 6: April 17, 2026
