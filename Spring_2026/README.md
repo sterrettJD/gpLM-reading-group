@@ -63,7 +63,19 @@ To be determined based on the topic ideas below!
   * [Helpful blog](https://frontlinegenomics.com/a-guide-to-multi-omics-integration-strategies/) on multiomics integration methods
   * Dec 2025 [Review](https://www.sciencedirect.com/science/article/pii/S2215017X25000657) on translationally focused (direct disease) multiomics integration
   * Another journal club from a diff university and [their resources and example analyses](https://med.nyu.edu/research/scientific-cores-shared-resources/multi-omics-study-design-data-integration-resource)
-  * A [2026 workshop](https://www.ebi.ac.uk/training/materials/introduction-to-multiomics-data-integration-and-visualisation-materials/course-content/) whose slides/lectures/practicals are available
+  * A [2026 workshop](https://www.ebi.ac.uk/training/materials/introduction-to-multiomics-data-integration-and-visualisation-materials/course-content/) whose slides/practicals are available
+  * Network-based approaoches/resources
+    * [Example](https://www.nature.com/articles/s41467-022-29998-8) usage: Systems genomics approach to uncover patient-specific pathogenic pathways
+    * [Signalink](http://signalink.org/): Resource with signaling pathways and such to allow merging with expression data to identify relevant pathways
+    * [NetworkCommons](https://academic.oup.com/bioinformatics/article/41/2/btaf048/8002097): Resource to unify programming efforts to access 1) prior knowledge, 2) omics data, and 3) network contextualization methods
+    * [OmniPath](https://omnipathdb.org/) contains LOTs of prior knowledge about pathways
+  * Understanding latent factors & representation learning
+    * Accessible [review](https://rnajournal.cshlp.org/content/32/4/504.long) from 2026 in SC data
+  * Very commonly used tools 
+    * [MOFA](https://biofam.github.io/MOFA2/)
+      * "interpretable low-dimensional representation in terms of a few latent factors. These learnt factors represent the driving sources of variation across data modalities, thus facilitating the identification of cellular states or disease subgroups"
+      * [Presentation](https://ftp.ebi.ac.uk/pub/training/2026/Introduction-to-multi-omics-data-integration-visualisation_2026/Day_2/Lecture3_mofa_2026.pdf) from a workshop
+      * [Practical](https://www.ebi.ac.uk/training/materials/introduction-to-multiomics-data-integration-and-visualisation-materials/group-projects/multi-omics-integration-for-personalised-medicine/) example usage 
 
 
 ### Meeting 6: April 17, 2026
